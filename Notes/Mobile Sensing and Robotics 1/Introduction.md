@@ -1,0 +1,27 @@
+# Two Fundamental Questions in Mobile Robotics
+- **What is the state of the world?**
+	- *State Estimation*
+- **What action to execute?**
+	- *Action Selection*
+
+# Topics Covered
+- Intro to the course & Python
+- Python: numpy, plotting, etc.
+- [[State Estimation Using Recursive Bayes Filter|Bayes filter & sensor models]]
+- Describing motion
+- Motion models
+- EKF for localization
+- Particle filter & MCL
+- Occupancy mapping
+- Motion planning
+- Motion control
+- Classification I
+- Classification II
+- Clustering and segmentation
+- Summary & Questions
+**Course:** https://www.youtube.com/playlist?list=PLgnQpQtFTOGQJXx-x0t23RmRbjp_yMb4v
+
+# Sopport
+- [[Terms|Terms]]
+- [[Autonomous Mobile Systems (Autonomous Mobile Robots or AMRs)|Autonomous Mobile Systems (AMS)]]
+- 

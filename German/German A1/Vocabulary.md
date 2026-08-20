@@ -1,0 +1,114 @@
+# Der
+- **A**
+- **B**
+	- **<u>der</u> *Bleistift*** - The Pencil ^Bleistift
+	- <u>der</u> **Ball** - The Ball ^ball
+- **C**
+- **D**
+	- <u>der</u> **Computer** (Pl: <u>die</u> **Computer**) - The Computer ^computer
+- **E**
+- **F**
+	- <u>der</u> **Fotoapparat** (Pl: <u>die</u> **Fotoapparate**) - Camera ^fotoapparat
+- **G**
+- **H**
+	- <u>der</u> **Hund** (Pl: <u>die</u> **Hunde**) - The dog (Pl: Dogs) ^hund
+	- <u>der</u> **Hamburger** (Pl: <u>die</u> Hamburgerin) - The hamburger (Pl: hamburger's) ^hamburger
+	- <u>der</u> **hut** (Pl: <u>die</u> **Hüte**) - The hat ^hut
+- **I**
+- **J**
+- **K**
+	- <u>der</u> **Kassetenrekorder** (Pl: <u>die</u> **Kassetenrekorder**) - cassette recorder ^kassetenrekorder
+- **L**
+	- <u>der</u> **Brief** - The Letter ^brief
+- **M**
+- **N**
+- **O**
+	- <u>der</u> **Orangensaft** (Pl: <u>die</u> **Orangensäfte**) - The Orange Juice (Pl: Orange Juices) ^orangensaft
+- **P**
+- **Q**
+- **R**
+- **S**
+	- <u>der</u> **Plattenspieler** (Pl: <u>die</u> **Plattenspieler**) - Record player ^plattenspieler
+- **T**
+	- <u>der</u> **Tisch** (Pl: <u>der</u> **Tische**) - The Table ^tisch
+	- <u>der</u> **Teddybär** (Pl: <u>die</u> **Teddybären**) - The Teddy bear ^teddybar
+- **U**
+- **V**
+- **W**
+- **X**
+- **Y**
+- **Z**
+	- <u>der</u> **Zeichen** (Pl: Zeichenblöcke) - The Sketch pad ^zeichenblock
+# Die
+- **A**
+- **B**
+- **C**
+	- <u>die</u> **CD** (Pl: <u>die</u> **CDs**) - CD ^CD
+- **D**
+- **E**
+	- **<u>die</u> Eltern** - *The Parents* ^eltern
+- **F**
+	- **<u>die</u> Familie** - *The Family* ^familie
+	- <u>die</u> **Freiheit** - Freedom ^freiheit
+- **G**
+- **H**
+- **I**
+- **J**
+- **K**
+	- **<u>die</u> Katze** - *The Cat* ^katze
+- **L**
+- **M**
+- **N**
+- **O**
+- **P**
+- **Q**
+- **R**
+- **S**
+	- <u>die</u> **Sonne** - The sun ^sonne
+	- <u>die</u> **Spielsachen** - Toys ^spielsachen
+- **T**
+	- <u>die</u> **Tauchausrüstung** (Pl: <u>die</u> **Tauchausrüstungen**) - diving gear ^tauchausrustung
+	- 
+- **U**
+- **V**
+	- <u>die</u> **Videokamera** (Pl: <u>die</u> **Videokameras**) - video camera ^videokamera
+- **W**
+- **X**
+- **Y**
+- **Z**
+# Das
+- **A**
+	- <u>das</u> ***Auto*** - The Car ^auto
+- **B**
+	- <u>das</u> **Buch*** (Pl: <u>die</u> Bucher) - The Book (Pl: Books) ^buch
+- **C**
+- **D**
+- **E**
+- **F**
+	- <u>das</u> **Fahrrad** (Pl: <u>die</u> Fahrräder) - The Bicycle (Bicycle's) ^fahrrad
+- **G**
+	- <u>das</u> **Geld** - Money ^geld
+- **H**
+	- <u>das</u> **Handy** (Pl: <u>die</u> **Handys**) - The mobile ^handy
+- **I**
+- **J**
+- **K**
+	- **<u>das</u> Kind (Pl: <u>die</u> Kinder)** - *The Child (Pl: Children)* ^kind
+- **L**
+- **M**
+- **N**
+- **O**
+- **P**
+- **Q**
+- **R**
+- **S**
+	- <u>das</u> **Surfbrett** (Pl: <u>die</u> **Surfbretter**) - The Surfboard ^surfbrett
+- **T**
+	- <u>das</u> **Tagebuch** (Pl: <u>die</u> **Tagebücher**) - The Diary ^tagebuch
+- **U**
+- **V**
+- **W**
+- **X**
+- **Y**
+- **Z**
+

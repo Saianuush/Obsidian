@@ -1,0 +1,30 @@
+- **A**
+- **B**
+- **C**
+- **D**
+- **E**
+- **F**
+	- Freund (M) | Freundin (F) - Friend ^freund
+- **G**
+- **H**
+- **I**
+- **J**
+- **K**
+- **L**
+- **M**
+- **N**
+- **O**
+- **P**
+	- Professor (M) | Professorin (F) - Professor ^professor
+- **Q**
+- **R**
+- **S**
+- **T**
+- **U**
+- **V**
+- **W**
+- **X**
+- **Y**
+- **Z**
+
+

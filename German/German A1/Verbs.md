@@ -1,0 +1,37 @@
+- **A**
+- **B**
+	- **Besuchen** - To Visit ^besuchen
+	- **Bleiben** - To stay ^bleiben
+- **C**
+- **D**
+	- **Dürfen** - may ^durfen
+- **E**
+- **F**
+- **G**
+- **H**
+- **I**
+- **J**
+- **K**
+	- **Kennen** - To Know ^kennen
+- **L**
+	- **Lieben** - To Love ^lieben
+- **M**
+- **N**
+	- **Nehmen** - To Take ^nehmen
+- **O**
+- **P**
+- **Q**
+- **R**
+	- **Rufen** - To Call ^rufen
+- **S**
+	- **Schauen** - To Look ^schaun
+	- **Spielen** - To Play ^spielen
+- **T**
+- **U**
+- **V**
+	- **Verkaufen** - To sell ^verkaufen
+- **W**
+- **X**
+- **Y**
+- **Z**
+
