@@ -40,4 +40,24 @@ Pr(A) denotes probability that proposition A is true.
 - X can take on a countable number of values in {$x_1$,$x_2$, . . ., $x_n$}
 - P(X=$x_i$) = P($x_i$) is the **probability** that the random variable X takes the value $x_i$.
 - P() is called [[Terms#^probability-mass-function|probability mass function]].
+# Continuous Random Variable
+- X takes an values in the continuum.
+- $p(X=x) = p(x)$ is a [[Terms#^probability-density-function|probability density function]].
+- ![[Pasted image 20260821172546.png]]
+# Probability Sums up to One
 
+![[Pasted image 20260821172632.png]]
+
+# Joint and Conditional Probability [[Law of Total Probability|#]]
+- $P(X=x \text{ and }Y=y) = P(x,y)$
+- if X and Y are **independent** then
+	- $P(x,y) = P(x)P(y)$
+- $P(x|y)$ is the probability of **X given Y**
+	- $P(x,y) = P(x|y)P(y)$ 
+	- $P(x|y) = \dfrac{P(x,y)}{P(y)}$
+- if X and Y are **independent** then
+	- $P(x|y) = P(x)$
+# Law of Total Probability
+| Discrete case                                 | Continuous case                                     |
+| --------------------------------------------- | --------------------------------------------------- |
+| $P(x) = \displaystyle\sum_{y}^{} P(x\|y)P(y)$ | $P(x) = \displaystyle \int_{}^{} p(x\|y)p(y) \, dy$ |

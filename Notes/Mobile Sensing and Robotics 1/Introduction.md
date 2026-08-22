@@ -20,8 +20,3 @@
 - Clustering and segmentation
 - Summary & Questions
 **Course:** https://www.youtube.com/playlist?list=PLgnQpQtFTOGQJXx-x0t23RmRbjp_yMb4v
-
-# Sopport
-- [[Terms|Terms]]
-- [[Autonomous Mobile Systems (Autonomous Mobile Robots or AMRs)|Autonomous Mobile Systems (AMS)]]
-- 
