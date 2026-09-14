@@ -1,0 +1,2 @@
+- **Deterministic State Estimate:** A deterministic state estimate represents the robot's state as **one single estimate value** (e.g., $x = 7$), meaning the system simply says **"the robot is here"** based on the available measurements, without explicitly representing the uncertainty or other possible states. ^deterministic-state-estimate
+- 

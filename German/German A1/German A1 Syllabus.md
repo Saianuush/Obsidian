@@ -3,8 +3,12 @@
 - [[Vocabulary]]
 - [[Noun]]
 - [[Verbs]]
-- [[Haben & Sein]] - To Have and To Be
+- [[Haben & Sein]] - To Have and To Be / Präteritum
 - [[Self Introduction]] - Introducing myself
 - [[Die Familie]] - Family names
 - [[Trennbare Verben]] - Split Verbs
 - [[Day-Month-Date]]
+- [[Akkusative]]
+- [[Wechsel Preposition]]
+- [[Sentence Making]]
+- [[Dativ]]

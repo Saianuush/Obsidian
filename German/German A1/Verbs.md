@@ -2,11 +2,13 @@
 - **B**
 	- **Besuchen** - To Visit ^besuchen
 	- **Bleiben** - To stay ^bleiben
+	- **Beissen** - To bite ^beissen
 - **C**
 - **D**
 	- **Dürfen** - may ^durfen
 - **E**
 - **F**
+	- **feiern** - to celebrate ^feiern
 - **G**
 - **H**
 - **I**
@@ -26,6 +28,7 @@
 - **S**
 	- **Schauen** - To Look ^schaun
 	- **Spielen** - To Play ^spielen
+	- **Schlafen - To Sleep ^schlafen
 - **T**
 - **U**
 - **V**

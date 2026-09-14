@@ -84,21 +84,63 @@
             }
           },
           {
-            "id": "cae8489ea9e5069a",
+            "id": "d4c1fe090f206ff3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "German A1/Trennbare Verben.md",
+                "file": "German A1/Akkusativ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trennbare Verben"
+              "title": "Akkusativ"
+            }
+          },
+          {
+            "id": "280bda3cbecebc06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "German A1/Dativ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dativ"
+            }
+          },
+          {
+            "id": "5f35c71ac6c45cc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "German A1/Terms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Terms"
+            }
+          },
+          {
+            "id": "5593705786d75254",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "German A1/Haben & Sein.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Haben & Sein"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -265,27 +307,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "cae8489ea9e5069a",
+  "active": "280bda3cbecebc06",
   "lastOpenFiles": [
+    "German A1/Akkusativ.md",
+    "German A1/Dativ.md",
+    "German A1/Akkusativ - Pronomen.md",
+    "German A1/Haben & Sein.md",
     "German A1/German A1 Syllabus.md",
-    "German A1/Trennbare Verben.md",
-    "German A1/Self Introduction.md",
-    "German A1/W-Fragen.md",
+    "German A1/Wechsel Preposition.md",
+    "German A1/Terms.md",
+    "German A1/Akkusative.md",
     "German A1/Possesiv.md",
-    "German A1/Day-Month-Date.md",
-    "German A1/Verbs.md",
     "German A1/Vocabulary.md",
+    "German A1/Trennbare Verben.md",
+    "German A1/W-Fragen.md",
+    "German A1/Sentence Making.md",
+    "German A1/Images/Pasted image 20260825113229.png",
+    "German A1/Images",
+    "German A1/Images/Pasted image 20260825115236.png",
+    "German A1/Verbs.md",
+    "German A1/Self Introduction.md",
+    "German A1/Day-Month-Date.md",
     "German A1/Noun.md",
     "German A1/Die Familie.md",
     "German A1/Nominative.md",
-    "German A1/Haben & Sein.md",
     "Coffee Break German/Index.md",
     "Coffee Break German/Coffee Break German (Lesson 1.md",
     "German A1/Nominative, Akkusative and Dative.md",
     "Kinder.md",
     "Coffee Break German/Coffee Break German (Lesson 2).md",
     "Untitled.base",
-    "Untitled",
     "German A1",
     "Coffee Break German",
     "German",

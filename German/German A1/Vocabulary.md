@@ -3,13 +3,17 @@
 - **B**
 	- **<u>der</u> *Bleistift*** - The Pencil ^Bleistift
 	- <u>der</u> **Ball** - The Ball ^ball
+	- <u>der</u> **Brief** - The Letter ^brief
+	- <u>der</u> **Baum** (- The tree ^baum
 - **C**
 - **D**
 	- <u>der</u> **Computer** (Pl: <u>die</u> **Computer**) - The Computer ^computer
 - **E**
 - **F**
 	- <u>der</u> **Fotoapparat** (Pl: <u>die</u> **Fotoapparate**) - Camera ^fotoapparat
+	- <u>der</u> **Fernseher** (Pl: <u>die</u> Fernseher) - TV ^fernseher
 - **G**
+	- <u>der</u> **Garten** (Pl: <u>die</u> Gärten)
 - **H**
 	- <u>der</u> **Hund** (Pl: <u>die</u> **Hunde**) - The dog (Pl: Dogs) ^hund
 	- <u>der</u> **Hamburger** (Pl: <u>die</u> Hamburgerin) - The hamburger (Pl: hamburger's) ^hamburger
@@ -18,13 +22,14 @@
 - **J**
 - **K**
 	- <u>der</u> **Kassetenrekorder** (Pl: <u>die</u> **Kassetenrekorder**) - cassette recorder ^kassetenrekorder
+	- <u>der</u> **Kühlschrank** (Pl: <u>die</u> Kühlschranke) - The fridge ^kuhlshrank
 - **L**
-	- <u>der</u> **Brief** - The Letter ^brief
 - **M**
 - **N**
 - **O**
 	- <u>der</u> **Orangensaft** (Pl: <u>die</u> **Orangensäfte**) - The Orange Juice (Pl: Orange Juices) ^orangensaft
 - **P**
+	- <u>der</u> **Pullover** (Pl: <u>die</u> Pullover) - The Jumper ^pullover
 - **Q**
 - **R**
 - **S**
@@ -32,6 +37,7 @@
 - **T**
 	- <u>der</u> **Tisch** (Pl: <u>der</u> **Tische**) - The Table ^tisch
 	- <u>der</u> **Teddybär** (Pl: <u>die</u> **Teddybären**) - The Teddy bear ^teddybar
+	- <u>der</u> **Teppich** (Pl: <u>die</u> Teppiche) - The Carpet ^teppich
 - **U**
 - **V**
 - **W**
@@ -42,6 +48,7 @@
 # Die
 - **A**
 - **B**
+	- <u>die</u> **Blumen** - Flower pot ^blumen
 - **C**
 	- <u>die</u> **CD** (Pl: <u>die</u> **CDs**) - CD ^CD
 - **D**
@@ -56,8 +63,10 @@
 - **J**
 - **K**
 	- **<u>die</u> Katze** - *The Cat* ^katze
+	- <u>die</u> **Küche** (Pl: <u>die</u> Küche) - *The Kitchen* ^kuche
 - **L**
 - **M**
+	- <u>die</u> **Mikrowelle** (Pl: <u>die</u> **Mikrowellen**) - Microwave ^mikrowelle
 - **N**
 - **O**
 - **P**
@@ -73,6 +82,7 @@
 - **V**
 	- <u>die</u> **Videokamera** (Pl: <u>die</u> **Videokameras**) - video camera ^videokamera
 - **W**
+	- <u>die</u> **Wäscherei** - Laundry
 - **X**
 - **Y**
 - **Z**
@@ -81,11 +91,13 @@
 	- <u>das</u> ***Auto*** - The Car ^auto
 - **B**
 	- <u>das</u> **Buch*** (Pl: <u>die</u> Bucher) - The Book (Pl: Books) ^buch
+	- <u>das</u> **Bett** (Pl: **die** Betten) - The Bed ^bett
 - **C**
 - **D**
 - **E**
 - **F**
 	- <u>das</u> **Fahrrad** (Pl: <u>die</u> Fahrräder) - The Bicycle (Bicycle's) ^fahrrad
+	- <u>das</u> **Fenster** (Pl: <u>die</u> Fenster) - The Window ^fenster
 - **G**
 	- <u>das</u> **Geld** - Money ^geld
 - **H**
@@ -111,4 +123,5 @@
 - **X**
 - **Y**
 - **Z**
+	- <u>das</u> **Zimmer** (Pl: <u>die</u> Zimmer) - The Room ^zimmer
 

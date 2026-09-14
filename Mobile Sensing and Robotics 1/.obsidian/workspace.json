@@ -18,37 +18,28 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "1b2022d0e5107e29",
+        "type": "tabs",
+        "children": [
           {
-            "id": "faebb2f66e60ce38",
+            "id": "11126b327a0015dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mobile Sensing and Robotics 1/Index.md",
+                "file": "Course Map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
-            }
-          },
-          {
-            "id": "b7100ea482f9c445",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Independent Event.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Independent Event"
+              "title": "Course Map"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,37 +206,48 @@
       "bases:Create new base": false
     }
   },
-  "active": "b7100ea482f9c445",
+  "active": "59544c6e058678df",
   "lastOpenFiles": [
-    "Independent Event.md",
-    "Mobile Sensing and Robotics 1/Index.md",
-    "Mobile Sensing and Robotics 1/Mathematics/Images/Pasted image 20260822165338.png",
-    "Mobile Sensing and Robotics 1/Mathematics/Conditional Probability.md",
-    "Mobile Sensing and Robotics 1/Mathematics/Images/Pasted image 20260822165359.png",
-    "Mobile Sensing and Robotics 1/Mathematics/Images/WhatsApp Image 2026-08-21 at 9.46.43 PM.jpeg",
-    "Mobile Sensing and Robotics 1/Introduction.md",
-    "Mobile Sensing and Robotics 1/State Estimation Using Recursive Bayes Filter.md",
-    "Mobile Sensing and Robotics 1/Support/Terms.md",
-    "Mobile Sensing and Robotics 1/Mathematics/Law of Total Probability.md",
-    "Mobile Sensing and Robotics 1/Mathematics/Bayes Theorem.md",
-    "Mobile Sensing and Robotics 1/Mathematics/Images/WhatsApp Image 2026-08-21 at 9.46.56 PM.jpeg",
-    "Mobile Sensing and Robotics 1/Support/Untitled.md",
-    "Mobile Sensing and Robotics 1/Images/Pasted image 20260819223348.png",
-    "Mobile Sensing and Robotics 1/Images",
-    "Mobile Sensing and Robotics 1/Mathematics/Images",
-    "Mobile Sensing and Robotics 1/Mathematics/Images/Pasted image 20260821190716.png",
-    "Mobile Sensing and Robotics 1/Images/Pasted image 20260821190708.png",
-    "Mobile Sensing and Robotics 1/Mathematics",
-    "Mobile Sensing and Robotics 1/Images/Pasted image 20260821172632.png",
-    "Mobile Sensing and Robotics 1/Images/Pasted image 20260821172546.png",
-    "Mobile Sensing and Robotics 1/Images/Pasted image 20260820203701.png",
-    "Mobile Sensing and Robotics 1/Support/Autonomous Mobile Systems (Autonomous Mobile Robots or AMRs).md",
-    "Operating Systems/How Operating System (OS) Work.md",
     "SLAM - Course/Course Introduction.md",
-    "Mobile Sensing and Robotics 1/Support",
-    "Mobile Sensing and Robotics 1",
-    "SLAM - Course",
-    "Welcome.md",
-    "Operating Systems"
+    "Course Map.md",
+    "Course/2. State Estimation Using Recursive Bayes Filter.md",
+    "Normal Distribution.md",
+    "Support/Autonomous Mobile Systems (Autonomous Mobile Robots or AMRs).md",
+    "Mobile Sensing and Robotics 1/Index.md",
+    "Course",
+    "Course/1. Introduction.md",
+    "Support/Terms.md",
+    "Book/Probabilistic Robotics/Summary/Chapter 2 - Recursive State Estimation.md",
+    "Book/Probabilistic Robotics/Summary/Chapter 1 - Introduction.md",
+    "Mathematics/Bayes Rule with Background Conditioning.md",
+    "Mathematics/Bayes Theorem.md",
+    "Mathematics/Conditional Independence.md",
+    "Mathematics/Conditional Probability.md",
+    "Mathematics/Independent Event.md",
+    "Mathematics/Normal Distribution (Gaussian Distribution).md",
+    "Mathematics/Law of Total Probability.md",
+    "Images/Pasted image 20260904232255.png",
+    "Images/Pasted image 20260912173458.png",
+    "Images/Pasted image 20260912171054.png",
+    "Images/Pasted image 20260904232337.png",
+    "Book/Probabilistic Robotics/Probabilistic_Robotics.pdf",
+    "Book/Probabilistic Robotics/Terms/Terms.md",
+    "Book/Probabilistic Robotics/Terms",
+    "Book/Probabilistic Robotics",
+    "Book/Probabilistic Robotics/Summary",
+    "Book",
+    "Mobile Sensing and Robotics 1/New folder",
+    "Images/Pasted image 20260824165522.png",
+    "Images/Pasted image 20260823204416.png",
+    "Images/Pasted image 20260823204138.png",
+    "Images/Pasted image 20260823203216.png",
+    "Mathematics/Images/Pasted image 20260822165338.png",
+    "Mathematics/Images/Pasted image 20260822165359.png",
+    "Mobile Sensing and Robotics 1/Support/Untitled.md",
+    "Images",
+    "Mathematics/Images",
+    "Mathematics",
+    "Operating Systems/How Operating System (OS) Work.md",
+    "Welcome.md"
   ]
 }
