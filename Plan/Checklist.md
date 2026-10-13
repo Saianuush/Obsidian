@@ -1,0 +1,33 @@
+Things to study:
+- [ ] Database:
+  - [ ] SQLite
+  - [ ] MySQL
+  - [ ] DBMS (Data Base Management System)
+- [ ] Cloud Engineering
+  - [ ] AWS
+  - [ ] Azure
+  - [ ] Firebase
+- [ ] Coding Language
+  - [ ] Python
+  - [ ] C++
+  - [ ] Java
+- [ ] Framework
+  - [ ] ROS
+  - [ ] NextJS
+  - [ ] Android Studio
+- [ ] Algorithms
+  - [ ] DSA (Data Structures and Algorithms)
+  - [ ] Leetcode (Daily 1)(medium) (Weekends: Hard 1)
+- [ ] DevOPS (Docker, CI/CD basics)
+- [ ] Software Engineering (Git, testing, architecture, APIs)
+- [ ] AI life cycle
+- [ ] Course
+  - [ ] RAG Course (Build 1–2 serious projects)
+  - [ ] etc.
+- [ ] Project
+  - [ ] 1 MCP project (WhatsApp, Email, etc. manager)
+    - [ ] Message Generator
+    - [ ] Schedular
+    - [ ] Work Reminder (tells what work i have to do today and this week / month / year / uni work / etc.)
+- [ ] Raspberry (Mini Project - 1)
+	- [ ] Simple Face Detection module to run
